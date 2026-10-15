@@ -26,7 +26,7 @@
 3. **Como** peatón, **quiero** que el semáforo funcione solo y de forma ordenada **para** poder cruzar la calle seguro.
 4. **Como** profe, **quiero** ver el código comentado y prolijo **para** ver que usamos bucles y variables como vimos en clase.
 5. **Como** parte del grupo, **quiero** tener el diagrama de flujo en el README **para** entendernos entre nosotros antes de programar en Arduino.
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/0e1ce049-84ed-492d-be4e-09c7791d3cb5" />
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d9da11c0-6a4c-4723-88ec-a125210b9683" />
 
 # link wowki https://wokwi.com/projects/467267429505439745
 
