@@ -28,3 +28,5 @@
 5. **Como** parte del grupo, **quiero** tener el diagrama de flujo en el README **para** entendernos entre nosotros antes de programar en Arduino.
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/0e1ce049-84ed-492d-be4e-09c7791d3cb5" />
 
+# link wowki https://wokwi.com/projects/467267429505439745
+
