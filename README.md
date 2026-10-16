@@ -33,14 +33,22 @@
 
 
 ## Presupuesto de los componentes
-* led rojo
+* led rojo 
 *  led amarillo
 *  led verde
 *   resistencia 220
 *   cables
 *   placa arduino uno rev3
+*   protoboard
 
-
+* https://tiendanodo.com/arduino-uno-r3-smd-ch340g-usb?utm_source=chatgpt.com   arduino
+* https://candy-ho.com/producto/led-5mm-rojo-diodos-redondos/  led rojo
+* https://candy-ho.com/producto/leds-5mm-color-amarillo/  led amarillo
+* https://candy-ho.com/producto/leds-5mm-verde-diodos-redondos/  led verde
+* https://candy-ho.com/producto/10x-resistencia-1-4-5-metal-5k1-ohm/ resistencias
+* https://candy-ho.com/producto/pack-40-cables-macho-hembra-20cm/  cables
+* https://candy-ho.com/producto/protoboard-de-400-puntos-experimentador-arduino-breadboard/    protoboard
+  
 
 
 
