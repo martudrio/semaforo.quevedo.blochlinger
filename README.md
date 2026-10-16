@@ -1,4 +1,4 @@
-# semaforo.quevedo.blochlinger
+# Semáforo.quevedo.blochlinger
 ## Integrantes
 * [Martina Blochlinger]
 * [Martina Quevedo]
