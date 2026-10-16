@@ -12,35 +12,13 @@ digitalWrite(verde, HIGH);
 digitalWrite(amarillo, LOW);
 digitalWrite(rojo, LOW);
 delay(3000);
-
-// amarillo parpadea tres veces
 // Amarillo encendido
 digitalWrite(verde, LOW);
 digitalWrite(amarillo, HIGH);
-delay(1000);
-// Amarillo apagado
-digitalWrite(verde, LOW);
-digitalWrite(amarillo, LOW);
-delay(1000);
-// Amarillo encendido
-digitalWrite(verde, LOW);
-digitalWrite(amarillo, HIGH);
-delay(1000);
-// Amarillo apagado
-digitalWrite(verde, LOW);
-digitalWrite(amarillo, LOW);
-delay(1000);
-// Amarillo encendido
-digitalWrite(verde, LOW);
-digitalWrite(amarillo, HIGH);
-delay(1000);
-// Amarillo apagado
-digitalWrite(verde, LOW);
-digitalWrite(amarillo, LOW);
-delay(1000);
+delay(2000);
 
 // Rojo encendido
 digitalWrite(amarillo, LOW);
 digitalWrite(rojo, HIGH);
-delay(4000);
+delay(3000);
 }
