@@ -33,6 +33,13 @@
 
 
 ## Presupuesto de los componentes
+l. led rojo
+2. led amarillo
+3. led verde
+4. resistencia 220
+5. cables
+6. placa arduino uno rev3
+
 
 
 
