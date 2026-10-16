@@ -29,5 +29,7 @@
 <img width="1024" height="559" alt="SI" src="https://github.com/user-attachments/assets/12a8e7fc-bda3-4dd7-bf2d-989e462b9a78" />
 
 # link wowki https://wokwi.com/projects/467267429505439745
+<img width="469" height="529" alt="image" src="https://github.com/user-attachments/assets/d8ab57bd-a312-4931-9595-f90e7e944381" />
+
 
 
