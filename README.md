@@ -33,13 +33,14 @@
 
 
 ## Presupuesto de los componentes
-* led rojo 
-*  led amarillo
-*  led verde
-*   resistencia 220
-*   cables
-*   placa arduino uno rev3
-*   protoboard
+* led rojo $50
+*  led amarillo $35
+*  led verde $50
+*   resistencia $410
+*   cables $2.900
+*   placa arduino uno rev3 $10.397,77
+*   protoboard $2.707
+*   $16.549,77
 
 * https://tiendanodo.com/arduino-uno-r3-smd-ch340g-usb?utm_source=chatgpt.com   arduino
 * https://candy-ho.com/producto/led-5mm-rojo-diodos-redondos/  led rojo
