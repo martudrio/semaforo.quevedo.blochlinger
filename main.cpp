@@ -1,3 +1,4 @@
+// Semáforo modificado por martina quevedo
 int rojo = 8;
 int amarillo = 9;
 int verde = 10;
