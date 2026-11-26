@@ -1,4 +1,5 @@
 // Semáforo modificado por martina quevedo
+// modificado otra vez por martina quevedo, pero ahora en la compu del colegio :)
 int rojo = 8;
 int amarillo = 9;
 int verde = 10;
